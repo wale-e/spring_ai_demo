@@ -30,5 +30,7 @@ gradlew.bat bootRun
 java -jar build/libs/spring_ai_demo-0.0.1-SNAPSHOT.jar
 ```
 
-## If successful, output will be a joke from the llama3.2:1b model
+```
+If successful, output will be a joke from the llama3.2:1b model
+```
 
